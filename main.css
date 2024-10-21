@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(orange, yellow, blue);
+    background-repeat: no-repeat;
+    height: 600px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    text-align: center;
+}
+input{
+    margin-left: 650px;
+}
+button{
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
